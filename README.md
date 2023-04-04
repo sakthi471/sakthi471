@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">“Don’t rush the process, great things take time.”</h3>
+<h3 align="center">“Don’t rush the process, Great things take time.”</h3>
 
 
 
