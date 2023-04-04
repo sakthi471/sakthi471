@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm sakthi</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakthi471&label=Profile%20views&color=0e75b6&style=flat" alt="sakthi471" /> </p>
+
+
+
+<h3 align="center">“Don’t rush the process, great things take time.”</h3>
+
+
 
 - 🌱 I’m currently learning **NEXT Js and React Native**
 
@@ -8,6 +13,8 @@
 - 💬 Ask me about **MERN stack development**
 
 - 📫 How to reach me **sakthim61797@gamil.com**
+- ⚡ **“Any application that can be written in JavaScript, will eventually be written in JavaScript.”**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,6 +40,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=sakthi471&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakthi471&label=Profile%20views&color=0e75b6&style=flat" alt="sakthi471" /> </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
