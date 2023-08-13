@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NEXT Js and React Native**
 
-- 👨‍💻 All of my projects are available at [https://jazzy-monstera-e62c73.netlify.app/](https://jazzy-monstera-e62c73.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sakthi471.netlify.app/](https://sakthi471.netlify.app/)
 
 - 💬 Ask me about **MERN stack development**
 
