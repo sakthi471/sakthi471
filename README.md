@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **NEXT Js and React Native**
+- 🌱 I’m currently learning **NEXT Js and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://sakthi471.netlify.app/](https://sakthi471.netlify.app/)
 
